@@ -1,0 +1,72 @@
+/*********************tag selectors****************************************/
+body
+{
+  background-color: #EAF6F6;
+}
+h1
+{
+  color: #66BFBF;
+  font-size: 50px;
+}
+img:hover
+{
+  background-color: #009b77;
+}
+h3
+{
+  color: #66BFBF;
+  font-size:50px;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+a:hover
+{
+  background-color:pink;
+}
+button:hover
+{
+  background-color:green;
+  color: white;
+}
+form
+{
+  font-size: 30px;
+}
+table
+{
+  font-size: 20px;
+}
+/*********************class selectors****************************************/
+.hobbies
+{
+  font-size:30px;
+  color: blue;
+}
+.paragraph1
+{
+  font-size:30px;
+}
+.submitbutton:hover
+{
+  background-color: green;
+  color: white;
+}
+.specificheading
+{
+  color: black;
+}
+/*********************id selectors****************************************/
+#last1
+{
+  font-size: 30px;
+}
+#last2
+{
+  font-size: 30px;
+}
